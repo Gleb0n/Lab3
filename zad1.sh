@@ -56,7 +56,7 @@ git branch -f main C3''
 git checkout C1
 git cherry-pick C2
 git checkout main
-git cherry-pick C2 C3
+git cherry-pick C2' C3
 
 #mixed 4
 git tag v0 C1
